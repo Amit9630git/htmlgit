@@ -1,0 +1,15 @@
+/* Heading ka rang aur font size badla */
+h1 {
+    color: blue;
+    font-size: 36px;
+    text-align: center;
+}
+
+/* Paragraph ka rang aur background add kiya */
+p {
+    color: green;
+    background-color: lightyellow;
+    font-size: 18px;
+    padding: 10px;
+    border: 1px solid gray;
+}
